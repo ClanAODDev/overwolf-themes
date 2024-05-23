@@ -1,0 +1,23 @@
+{
+  "manifest_version":"1",
+  "type":"Skin",
+  "meta":{
+    "name":"AOD - Hell Divers 2",
+    "version":"1.0.0.0",
+    "minimum-overwolf-version": "0.84.0.1",
+    "author":"AOD_ReaverVI",
+    "description":"AOD - Hell Divers 2 Skin",
+    "icon": "icon.png"
+    },
+    "data": {
+      "components":[
+	  "Windows",
+        "Dock",
+        "Sounds", 
+        "Cursor",
+        "FPS"
+      ],
+      "games":[
+      ]
+    }
+  }
